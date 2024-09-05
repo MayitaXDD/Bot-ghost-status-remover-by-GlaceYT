@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Listening to Spotify","Playing VALORANT"];
+const statusMessages = ["Muy pronto la gran apertura 🌌","👉 play.constelamc.com","Bot Oficial"];
 
 
 let currentIndex = 0;
